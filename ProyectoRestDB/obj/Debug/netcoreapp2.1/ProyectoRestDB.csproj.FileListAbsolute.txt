@@ -1,0 +1,14 @@
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\bin\Debug\netcoreapp2.1\ProyectoRestDB.deps.json
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\bin\Debug\netcoreapp2.1\ProyectoRestDB.runtimeconfig.json
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\bin\Debug\netcoreapp2.1\ProyectoRestDB.runtimeconfig.dev.json
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\bin\Debug\netcoreapp2.1\ProyectoRestDB.dll
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.RazorAssemblyInfo.cache
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.RazorAssemblyInfo.cs
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.AssemblyInfoInputs.cache
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.AssemblyInfo.cs
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.RazorTargetAssemblyInfo.cache
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\bin\Debug\netcoreapp2.1\ProyectoRestDB.pdb
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.dll
+C:\Users\andermaestre\source\repos\ProyectoRestDB\ProyectoRestDB\obj\Debug\netcoreapp2.1\ProyectoRestDB.pdb
